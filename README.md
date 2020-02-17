@@ -1,2 +1,0 @@
-# programmaticNavigation
-Created with CodeSandbox
